@@ -1,0 +1,12 @@
+div{
+    widows: 100px;
+    float: left;
+}
+
+#one{
+    background-color: red;
+}
+
+#two{
+    background-color: bisque;
+}
